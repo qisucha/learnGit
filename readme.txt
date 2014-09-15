@@ -3,3 +3,4 @@ create a new branch dev
 create a branch is quick & simple
 create a dev branch
 repair bug
+test stash
